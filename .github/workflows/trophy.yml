@@ -11,7 +11,7 @@ jobs:
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
-          username: xsiphr
+          username: t40ix
           file: trophy.svg
           theme: oldie
           token: ${{ secrets.TROPHY_TOKEN }}
