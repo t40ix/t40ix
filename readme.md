@@ -1,4 +1,4 @@
-![Banner](assets/banner-dark.svg)
+![Banner](assets/banner1.svg)
 
 Hi, I'm **[Abdulrahman Agiba | xsiphr](https://xsiphr.vercel.app/)** — a 2nd-year CS student at [Tanta University](https://ci.tanta.edu.eg/en/), currently moving into offensive security and web pentesting on my way to bug hunting and, eventually, cloud security.
 
