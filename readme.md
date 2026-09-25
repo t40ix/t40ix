@@ -1,12 +1,12 @@
 ![Banner](assets/banner2.svg)
 
-Hi, I'm **[Abdulrahman Agiba | t40ix](https://t40ix.vercel.app/)** — a 3rd-year IT student at the Faculty of Computers and Information @ [Tanta University](https://ci.tanta.edu.eg/en/) , currently exploring pentesting and bug hunting as an entry point into security, with cloud security as the longer-term goal.
+Hi, I'm [Abdulrahman Agiba | t40ix](https://t40ix.vercel.app/) — a 3rd-year IT student at the Faculty of Computers and Information @ [Tanta University](https://ci.tanta.edu.eg/en/) , currently getting into cloud computing , specifically cloud security.
 
 ## About Me
 
-Outside of security, I build things — Linux tools and Obsidian plugins. I run a minimal EndeavourOS setup and spend a lot of time in dotfiles and system internals. Right now I'm getting into cloud computing and cloud security.
+Alongside that , I build things — Linux tools and Obsidian plugins. I run a minimal EndeavourOS setup and spend a lot of time in dotfiles and system internals.
 
-Now i'm part of the [Hidden Lock Team](https://www.hiddenlockteam.com/), where I help the Arab Linux community [troubleshoot issues](https://www.hiddenlockteam.com/p/issues-linux-hidden-lock-team-root-bg.html).
+I'm part of the [Hidden Lock Team](https://www.hiddenlockteam.com/), where I help the Arab Linux community [troubleshoot issues](https://www.hiddenlockteam.com/p/issues-linux-hidden-lock-team-root-bg.html).
 
 ## Featured Project
 
