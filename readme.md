@@ -1,12 +1,12 @@
 ![Banner](assets/banner2.svg)
 
-Hi, I'm **[Abdulrahman Agiba | xsiphr](https://xsiphr.vercel.app/)** — a 2nd-year CS student at [Tanta University](https://ci.tanta.edu.eg/en/), currently moving into offensive security and web pentesting on my way to bug hunting and, eventually, cloud security.
+Hi, I'm **[Abdulrahman Agiba | t40ix](https://t40ix.vercel.app/)** — a 3rd-year IT student at the Faculty of Computers and Information @ [Tanta University](https://ci.tanta.edu.eg/en/) , currently exploring pentesting and bug hunting as an entry point into security, with cloud security as the longer-term goal.
 
 ## About Me
 
-Outside of security, I build things — automation scripts, Linux themes, and Obsidian plugins. I run a minimal Arch setup and spend a fair amount of time in dotfiles and system internals, mostly because I like knowing how things actually work under the hood.
+Outside of security, I build things — Linux tools and Obsidian plugins. I run a minimal EndeavourOS setup and spend a lot of time in dotfiles and system internals. Right now I'm getting into cloud computing and cloud security.
 
-I'm part of the [Hidden Lock Team](https://www.hiddenlockteam.com/), where I help the Arab Linux community [troubleshoot issues](https://www.hiddenlockteam.com/p/issues-linux-hidden-lock-team-root-bg.html). I also keep a personal Obsidian wiki documenting problems I've run into and how I solved them — planning to publish it on [my site](https://xsiphr.vercel.app/) at some point.
+Now i'm part of the [Hidden Lock Team](https://www.hiddenlockteam.com/), where I help the Arab Linux community [troubleshoot issues](https://www.hiddenlockteam.com/p/issues-linux-hidden-lock-team-root-bg.html).
 
 ## Featured Project
 
