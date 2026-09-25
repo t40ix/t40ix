@@ -4,7 +4,7 @@ Hi, I'm [Abdulrahman Agiba | t40ix](https://t40ix.vercel.app/) — a 3rd-year IT
 
 ## About Me
 
-Alongside that , I build things — Linux tools and Obsidian plugins. I run a minimal EndeavourOS setup and spend a lot of time in dotfiles and system internals.
+I build things — Linux tools , Obsidian plugins and the odd web app . I run a minimal EndeavourOS setup and spend some time in dotfiles and system internals.
 
 I'm part of the [Hidden Lock Team](https://www.hiddenlockteam.com/), where I help the Arab Linux community [troubleshoot issues](https://www.hiddenlockteam.com/p/issues-linux-hidden-lock-team-root-bg.html).
 
