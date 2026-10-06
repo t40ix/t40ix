@@ -20,7 +20,7 @@ Officially published in the [Obsidian Community Store](https://community.obsidia
 ### [Oxiv](https://github.com/t40ix/Oxiv)
 *A minimal, watermark-free social media extractor.*
 
-Open-source, stateless media extractor with zero-retention architecture. Live at [t40ix.vercel.app](https://t40ix.vercel.app). Currently supports TikTok and Pinterest with watermark-free downloads, direct MP4/MP3 extraction, and client-side ZIP bundling.
+Open-source, stateless media extractor with zero-retention architecture. Live at [t40ix.vercel.app](https://oxivapp.vercel.app). Currently supports TikTok and Pinterest with watermark-free downloads, direct MP4/MP3 extraction, and client-side ZIP bundling.
 
 [![Live on Vercel](https://img.shields.io/badge/Live-t40ix.vercel.app-333333?style=flat-square&logo=vercel&logoColor=white)](https://t40ix.vercel.app) [![License](https://img.shields.io/github/license/t40ix/Oxiv?style=flat-square&color=483699)](https://github.com/t40ix/Oxiv/blob/main/LICENSE) [![Stars](https://img.shields.io/github/stars/t40ix/Oxiv?style=flat-square&color=EBCB8B)](https://github.com/t40ix/Oxiv/stargazers) [![Next.js](https://img.shields.io/badge/Next.js-15-333333?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org)
 
