@@ -1,4 +1,4 @@
-![Banner](assets/banner3.svg)
+![Banner](assets/whoami.svg)
 
 Hi, I'm [Abdulrahman Agiba | t40ix](https://t40ix.vercel.app/) — a 3rd-year IT student at the Faculty of Computers and Information @ [Tanta University](https://ci.tanta.edu.eg/en/) , currently getting into cloud computing , specifically cloud security.
 
